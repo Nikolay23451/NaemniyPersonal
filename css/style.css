@@ -862,7 +862,7 @@ body{
 
 .call_elem{
     display: flex;
-    min-width: 35%;
+
 }
 
 .call_item:nth-child(2n+1){
