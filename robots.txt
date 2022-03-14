@@ -1,0 +1,4 @@
+User-agent: YandexBot,Googlebot
+Crawl-delay: 1
+Host: naemniypersonal.ru
+Sitemap: https://naemniypersonal.ru/sitemap.xml
